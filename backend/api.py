@@ -5,14 +5,18 @@ from pydantic import BaseModel
 from dotenv import load_dotenv, find_dotenv, dotenv_values
 from openai import OpenAI
 from fastapi.responses import StreamingResponse
-import io
+from fastapi.staticfiles import StaticFiles
+from pathlib import Path
 import re
 import os, json, re, traceback
 from retriever import BookRetriever
 
 # ------------------ App & deps ------------------
 load_dotenv()
-app = FastAPI(title="Smart Librarian (Responses API)")
+app = FastAPI(title="Dava Smart Librarian API")
+dist_dir = (Path(__file__).parent.parent / "frontend_dist").resolve()
+if dist_dir.exists():
+    app.mount("/", StaticFiles(directory=str(dist_dir), html=True), name="static")
 client = OpenAI()
 retriever = None
 init_error = None

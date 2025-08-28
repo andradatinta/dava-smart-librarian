@@ -1,0 +1,16 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: smart-librarian
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - CHROMA_DIR=.chroma
+    volumes:
+      - chroma_data:/app/backend/.chroma
+    restart: unless-stopped
+volumes:
+  chroma_data:
