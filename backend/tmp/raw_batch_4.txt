@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "summary": "Set in the American South during the 1930s, this novel follows young Scout Finch as she navigates her childhood in a racially divided town. Through her father's moral integrity and her own experiences, Scout learns about justice, empathy, and the complexities of human nature. The story explores the loss of innocence and the struggle for understanding in a prejudiced society.",
+        "themes": ["coming of age", "identity", "belonging"]
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "summary": "This iconic novel tells the story of Holden Caulfield, a teenager who has been expelled from several prep schools and struggles with feelings of alienation and disconnection. As he wanders New York City, he grapples with the challenges of adulthood, the phoniness of the world around him, and his desire to protect childhood innocence. Holden's journey reflects the tumultuous path to self-discovery.",
+        "themes": ["coming of age", "identity", "belonging"]
+    },
+    {
+        "title": "The Perks of Being a Wallflower",
+        "summary": "Through a series of letters, Charlie, an introspective high school freshman, shares his experiences with friendship, love, and mental health. As he navigates the complexities of adolescence, he finds solace in a group of misfit friends who help him confront his past traumas. The novel captures the struggles of finding one's place in the world and the importance of connection.",
+        "themes": ["coming of age", "identity", "belonging"]
+    },
+    {
+        "title": "A Tree Grows in Brooklyn",
+        "summary": "This semi-autobiographical novel follows the life of Francie Nolan, a young girl growing up in a poor neighborhood in Brooklyn during the early 20th century. Through her experiences with family, education, and ambition, Francie strives for a better life while grappling with her identity and the constraints of her environment. The story beautifully illustrates resilience and the pursuit of dreams.",
+        "themes": ["coming of age", "identity", "belonging"]
+    },
+    {
+        "title": "The House on Mango Street",
+        "summary": "This novel presents the coming-of-age story of Esperanza Cordero, a young Latina girl living in a Chicago neighborhood. Through a series of vignettes, she reflects on her experiences with culture, gender roles, and the desire for a better life. Esperanza's journey highlights the challenges of identity and the search for belonging within her community and beyond.",
+        "themes": ["coming of age", "identity", "belonging"]
+    }
+]
+```

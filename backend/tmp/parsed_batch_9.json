@@ -1,0 +1,47 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "summary": "Set in the racially charged atmosphere of the American South, this novel follows young Scout Finch as she navigates her childhood and learns about morality and empathy. Through her father, Atticus Finch, Scout witnesses the complexities of human nature and the importance of standing up for justice. The story profoundly explores themes of racial injustice and moral growth.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "summary": "This classic novel follows the disenchanted teenager Holden Caulfield, who has been expelled from multiple prep schools. As he roams New York City, he grapples with feelings of alienation and his struggle to find his place in a world he perceives as phony. Holden's journey highlights the challenges of adolescence and the quest for authenticity.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "summary": "Through a series of letters, Charlie, a high school freshman, shares his experiences of friendship, love, and trauma. As he navigates the complexities of adolescence, he learns about the importance of connection and acceptance. The novel captures the essence of growing up and the struggles of finding one's voice in a chaotic world.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  },
+  {
+    "title": "A Tree Grows in Brooklyn",
+    "summary": "This coming-of-age story chronicles the life of young Francie Nolan growing up in the early 20th century Brooklyn. Through her struggles and aspirations, she learns about the harsh realities of poverty and the power of dreams. The novel beautifully depicts the pursuit of identity and the longing for a better life, emphasizing the strength of family and community.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  },
+  {
+    "title": "The Joy Luck Club",
+    "summary": "This novel weaves together the stories of four Chinese-American immigrant families and their daughters, exploring the complexities of cultural identity and generational conflict. Through their interconnected tales, the book examines the bonds of family, tradition, and the search for belonging in a bicultural landscape. It highlights the struggle to reconcile heritage with personal aspirations.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  }
+]

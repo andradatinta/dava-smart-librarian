@@ -1,0 +1,47 @@
+[
+  {
+    "title": "1984",
+    "summary": "George Orwell's dystopian novel portrays a totalitarian regime that employs extreme surveillance to control its citizens. The story follows Winston Smith, who struggles against the oppressive Party that manipulates truth and enforces conformity. As he seeks freedom, he becomes increasingly aware of the dire consequences of rebellion.",
+    "themes": [
+      "freedom",
+      "control",
+      "surveillance"
+    ]
+  },
+  {
+    "title": "Fahrenheit 451",
+    "summary": "Ray Bradbury's classic tale is set in a future where books are banned and 'firemen' burn any that are found. The protagonist, Guy Montag, begins to question the anti-intellectual society that promotes ignorance and conformity. His journey toward self-discovery reveals the importance of freedom and the dangers of censorship.",
+    "themes": [
+      "freedom",
+      "control",
+      "surveillance"
+    ]
+  },
+  {
+    "title": "Brave New World",
+    "summary": "Aldous Huxley's novel presents a technologically advanced society where individuals are conditioned for passivity and consumerism. Happiness is engineered through drugs and social manipulation, leading to a loss of personal freedom. The story critiques the pursuit of stability at the cost of individuality and genuine human connection.",
+    "themes": [
+      "freedom",
+      "control",
+      "surveillance"
+    ]
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "summary": "Margaret Atwood's powerful narrative unfolds in a dystopian future where a totalitarian regime subjugates women. The protagonist, Offred, navigates a society built on strict control and surveillance, exploring themes of autonomy and resistance. Her struggle for freedom reflects the broader implications of oppression and gender politics.",
+    "themes": [
+      "freedom",
+      "control",
+      "surveillance"
+    ]
+  },
+  {
+    "title": "The Giver",
+    "summary": "Lois Lowry's novel depicts a seemingly utopian society that has eliminated pain and suffering through strict control and uniformity. Jonas, the protagonist, discovers the dark truths behind this facade as he receives memories of the past. His quest for individuality and freedom ultimately challenges the moral implications of a controlled existence.",
+    "themes": [
+      "freedom",
+      "control",
+      "surveillance"
+    ]
+  }
+]

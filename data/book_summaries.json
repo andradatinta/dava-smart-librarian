@@ -1,0 +1,289 @@
+[
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "summary": "This classic novel follows the journey of a young boy named Huck Finn as he escapes from his oppressive father and embarks on a river adventure. Along the way, he befriends Jim, a runaway slave, and they navigate the complexities of friendship and morality in a divided society. Their experiences challenge societal norms and highlight the value of loyalty and courage in the face of adversity.",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage",
+      "morality",
+      "freedom"
+    ]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "summary": "In this epic fantasy, a young hobbit named Frodo Baggins inherits a powerful ring and sets out on a perilous quest to destroy it. Joined by a diverse group of companions, including humans, elves, and dwarves, they face numerous challenges that test their bonds of friendship and bravery. The story explores themes of loyalty, sacrifice, and the struggle between good and evil.",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage",
+      "sacrifice",
+      "good vs evil"
+    ]
+  },
+  {
+    "title": "Charlotte's Web",
+    "summary": "This beloved children's novel tells the story of a pig named Wilbur and his friendship with a wise and kind spider named Charlotte. When Wilbur faces the threat of being slaughtered, Charlotte devises a plan to save him by spinning messages in her web. The book beautifully illustrates the themes of friendship, loyalty, and the courage to stand up for those we care about.",
+    "themes": [
+      "friendship",
+      "courage",
+      "sacrifice",
+      "loyalty",
+      "life and death"
+    ]
+  },
+  {
+    "title": "The Alchemist",
+    "summary": "This philosophical novel follows Santiago, a young shepherd who dreams of discovering a hidden treasure in Egypt. His journey is filled with encounters that teach him about love, friendship, and the importance of following one's dreams. Through various adventures and challenges, Santiago learns to trust in the courage of his own heart and the connections he makes along the way.",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage",
+      "dreams",
+      "self-discovery"
+    ]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "summary": "In this enchanting story, a young boy named Harry discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry. Alongside his new friends Ron and Hermione, he faces magical adventures, battles against dark forces, and uncovers the truth about his past. The book emphasizes the importance of friendship and the courage to confront one's fears.",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage",
+      "identity",
+      "good vs evil"
+    ]
+  },
+  {
+    "title": "Brave New World",
+    "summary": "Aldous Huxley's 'Brave New World' presents a future society that prioritizes technological advancement and consumerism over individuality and freedom. Citizens are conditioned from birth to conform and are pacified through the use of drugs and superficial pleasures. The narrative explores the consequences of sacrificing personal freedom for societal stability and control.",
+    "themes": [
+      "freedom",
+      "control",
+      "surveillance",
+      "technology",
+      "society"
+    ]
+  },
+  {
+    "title": "Fahrenheit 451",
+    "summary": "Ray Bradbury's 'Fahrenheit 451' imagines a future where books are banned and 'firemen' burn any that are found. The story follows Montag, a fireman who begins to question the anti-intellectual society he serves. As he seeks knowledge and freedom, he confronts the oppressive control of the state and the pervasive surveillance that enforces conformity.",
+    "themes": [
+      "freedom",
+      "control",
+      "surveillance",
+      "censorship",
+      "knowledge"
+    ]
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "summary": "Margaret Atwood's 'The Handmaid's Tale' is set in a near-future dystopia where a theocratic regime controls women's bodies and rights. Through the eyes of Offred, a handmaid forced into childbearing, the novel explores themes of power, subjugation, and the quest for freedom. It unveils the horrors of a society steeped in surveillance and strict control over personal autonomy.",
+    "themes": [
+      "freedom",
+      "control",
+      "surveillance",
+      "gender",
+      "power"
+    ]
+  },
+  {
+    "title": "The Giver",
+    "summary": "Lois Lowry's 'The Giver' takes place in a seemingly utopian society devoid of pain and suffering but also lacking in true emotions and freedom. The story follows Jonas, a young boy chosen to inherit the community's memories of the past. As he learns about the complexities of love, loss, and choice, he begins to understand the heavy cost of the control and surveillance that maintain their way of life.",
+    "themes": [
+      "freedom",
+      "control",
+      "surveillance",
+      "memory",
+      "choice"
+    ]
+  },
+  {
+    "title": "The Great Gatsby",
+    "summary": "Set in the Roaring Twenties, this novel follows the enigmatic Jay Gatsby and his obsession with the beautiful Daisy Buchanan. Through the eyes of narrator Nick Carraway, readers explore themes of wealth, love, and the American Dream. The story captures the illusion of romance and the inevitable heartbreak that often accompanies it.",
+    "themes": [
+      "love",
+      "loss",
+      "illusion",
+      "wealth",
+      "dreams"
+    ]
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "summary": "This historical novel by Charles Dickens is set during the tumultuous times of the French Revolution. It tells the story of Charles Darnay and Sydney Carton, two men who love the same woman, Lucie Manette. With themes of sacrifice, resurrection, and the struggle for redemption, the novel highlights the impact of societal upheaval on personal lives.",
+    "themes": [
+      "love",
+      "sacrifice",
+      "redemption",
+      "revolution",
+      "identity"
+    ]
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "summary": "This poignant young adult novel follows Hazel Grace Lancaster, a teenager battling cancer, as she navigates love and loss. She meets Augustus Waters at a support group, and their relationship evolves into a deep, meaningful bond. The story explores themes of mortality, the impact of illness, and the search for purpose in the face of tragedy.",
+    "themes": [
+      "love",
+      "loss",
+      "mortality",
+      "cancer",
+      "purpose"
+    ]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "summary": "This classic novel by Jane Austen explores the complexities of love and social class through the story of Elizabeth Bennet and Mr. Darcy. Their initial misunderstandings evolve into mutual respect and affection, highlighting the themes of personal growth and societal expectations. It’s a timeless tale about finding true love amidst prejudice and pride.",
+    "themes": [
+      "love",
+      "class",
+      "growth",
+      "misunderstanding",
+      "society"
+    ]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "summary": "Set in the American South during the 1930s, this novel follows young Scout Finch as she navigates her childhood in a racially divided town. Through her father's moral integrity and her own experiences, Scout learns about justice, empathy, and the complexities of human nature. The story explores the loss of innocence and the struggle for understanding in a prejudiced society.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "summary": "This iconic novel tells the story of Holden Caulfield, a teenager who has been expelled from several prep schools and struggles with feelings of alienation and disconnection. As he wanders New York City, he grapples with the challenges of adulthood, the phoniness of the world around him, and his desire to protect childhood innocence. Holden's journey reflects the tumultuous path to self-discovery.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  },
+  {
+    "title": "The Perks of Being a Wallflower",
+    "summary": "Through a series of letters, Charlie, an introspective high school freshman, shares his experiences with friendship, love, and mental health. As he navigates the complexities of adolescence, he finds solace in a group of misfit friends who help him confront his past traumas. The novel captures the struggles of finding one's place in the world and the importance of connection.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  },
+  {
+    "title": "A Tree Grows in Brooklyn",
+    "summary": "This semi-autobiographical novel follows the life of Francie Nolan, a young girl growing up in a poor neighborhood in Brooklyn during the early 20th century. Through her experiences with family, education, and ambition, Francie strives for a better life while grappling with her identity and the constraints of her environment. The story beautifully illustrates resilience and the pursuit of dreams.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  },
+  {
+    "title": "The House on Mango Street",
+    "summary": "This novel presents the coming-of-age story of Esperanza Cordero, a young Latina girl living in a Chicago neighborhood. Through a series of vignettes, she reflects on her experiences with culture, gender roles, and the desire for a better life. Esperanza's journey highlights the challenges of identity and the search for belonging within her community and beyond.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  },
+  {
+    "title": "The Cask of Amontillado",
+    "summary": "In this chilling short story, Montresor seeks revenge against Fortunato during a carnival in Italy. Luring him into the catacombs with the promise of a rare wine, Montresor's true intentions reveal a dark exploration of vengeance and betrayal. The story questions the nature of justice and the extremes to which one might go for personal satisfaction.",
+    "themes": [
+      "revenge",
+      "betrayal",
+      "moral ambiguity"
+    ]
+  },
+  {
+    "title": "The Scarlet Letter",
+    "summary": "Set in Puritan Massachusetts, this novel follows Hester Prynne, who bears the shame of an affair and gives birth to an illegitimate child. Marked by society with a scarlet letter 'A', Hester's journey explores themes of sin, guilt, and redemption. The story intricately examines the complexities of morality and societal judgment.",
+    "themes": [
+      "sin and redemption",
+      "societal judgment",
+      "individual morality"
+    ]
+  },
+  {
+    "title": "The Firm",
+    "summary": "In this legal thriller, young attorney Mitch McDeere is recruited by a prestigious law firm with a hidden agenda. As he uncovers the firm's dark secrets, Mitch is torn between ambition and the ethical dilemmas he faces. The novel delves into the intricacies of justice, corruption, and personal integrity.",
+    "themes": [
+      "corruption",
+      "ethical dilemmas",
+      "personal integrity"
+    ]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "summary": "This fast-paced mystery involves symbologist Robert Langdon as he unravels a conspiracy tied to Leonardo da Vinci's works and the secret of the Holy Grail. As he navigates through clues and ancient secrets, the story challenges established beliefs and explores the tension between faith and reason. It raises questions about truth, morality, and the quest for knowledge.",
+    "themes": [
+      "faith vs. reason",
+      "truth and deception",
+      "moral dilemmas"
+    ]
+  },
+  {
+    "title": "The Hobbit",
+    "summary": "In J.R.R. Tolkien's classic tale, Bilbo Baggins, a hobbit, is unexpectedly swept into an epic adventure when the wizard Gandalf and a group of dwarves enlist his help to reclaim their homeland from the dragon Smaug. Along the way, Bilbo discovers his own bravery and resourcefulness. This journey not only tests his courage but also forges lasting bonds of friendship.",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage"
+    ]
+  },
+  {
+    "title": "The Little Prince",
+    "summary": "Antoine de Saint-Exupéry's timeless fable tells the story of a young prince who travels from planet to planet, learning about love, loss, and the essence of human connections. Through his encounters, he highlights the importance of friendship and the courage to see the world through the eyes of a child. This whimsical tale invites readers to reflect on what truly matters in life.",
+    "themes": [
+      "friendship",
+      "innocence",
+      "courage"
+    ]
+  },
+  {
+    "title": "Wuthering Heights",
+    "summary": "Emily Brontë's only novel explores the intense and tumultuous love between Heathcliff and Catherine Earnshaw, set on the wild Yorkshire moors. Their passionate relationship leads to deep emotional scars and a cycle of revenge that spans generations. The story examines the darker sides of love and the profound impact of loss on the human spirit.",
+    "themes": [
+      "love",
+      "loss",
+      "revenge"
+    ]
+  },
+  {
+    "title": "The Joy Luck Club",
+    "summary": "This novel weaves together the stories of four Chinese-American immigrant families and their daughters, exploring the complexities of cultural identity and generational conflict. Through their interconnected tales, the book examines the bonds of family, tradition, and the search for belonging in a bicultural landscape. It highlights the struggle to reconcile heritage with personal aspirations.",
+    "themes": [
+      "coming of age",
+      "identity",
+      "belonging"
+    ]
+  },
+  {
+    "title": "The Maltese Falcon",
+    "summary": "In this classic detective novel, private investigator Sam Spade navigates the treacherous world of crime and betrayal while pursuing a valuable artifact. The story unfolds with twists and turns as various characters seek the elusive Maltese Falcon for their own gain. Themes of greed and moral ambiguity permeate the narrative as Spade grapples with trust and deception.",
+    "themes": [
+      "mystery",
+      "justice",
+      "morality"
+    ]
+  },
+  {
+    "title": "The Stranger",
+    "summary": "Albert Camus' existential novel centers on Meursault, an emotionally detached man who becomes embroiled in a murder trial. His unconventional behavior and indifference to societal norms raise questions about morality and the nature of justice. As the narrative unfolds, it challenges readers to contemplate the absurdity of life and the arbitrary nature of societal judgments.",
+    "themes": [
+      "mystery",
+      "justice",
+      "morality"
+    ]
+  },
+  {
+    "title": "Crime and Punishment",
+    "summary": "Fyodor Dostoevsky's psychological thriller follows Raskolnikov, a former student who commits a murder, believing he is above the law. As he grapples with guilt and paranoia, the story delves into themes of redemption, morality, and the nature of justice. The intricate character study examines the consequences of one's actions and the struggle for moral clarity.",
+    "themes": [
+      "morality",
+      "justice",
+      "redemption"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "title": "The Maltese Falcon",
+    "summary": "In this classic detective novel, private investigator Sam Spade navigates the treacherous world of crime and betrayal while pursuing a valuable artifact. The story unfolds with twists and turns as various characters seek the elusive Maltese Falcon for their own gain. Themes of greed and moral ambiguity permeate the narrative as Spade grapples with trust and deception.",
+    "themes": [
+      "mystery",
+      "justice",
+      "morality"
+    ]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "summary": "Set in the racially charged American South, this novel follows young Scout Finch as her father, lawyer Atticus Finch, defends a black man accused of raping a white woman. Through Scout's eyes, readers witness the injustices of the legal system and the moral dilemmas faced by individuals in a prejudiced society. The story explores themes of empathy, integrity, and the loss of innocence.",
+    "themes": [
+      "justice",
+      "morality",
+      "prejudice"
+    ]
+  },
+  {
+    "title": "The Stranger",
+    "summary": "Albert Camus' existential novel centers on Meursault, an emotionally detached man who becomes embroiled in a murder trial. His unconventional behavior and indifference to societal norms raise questions about morality and the nature of justice. As the narrative unfolds, it challenges readers to contemplate the absurdity of life and the arbitrary nature of societal judgments.",
+    "themes": [
+      "mystery",
+      "justice",
+      "morality"
+    ]
+  },
+  {
+    "title": "Crime and Punishment",
+    "summary": "Fyodor Dostoevsky's psychological thriller follows Raskolnikov, a former student who commits a murder, believing he is above the law. As he grapples with guilt and paranoia, the story delves into themes of redemption, morality, and the nature of justice. The intricate character study examines the consequences of one's actions and the struggle for moral clarity.",
+    "themes": [
+      "morality",
+      "justice",
+      "redemption"
+    ]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "summary": "In this fast-paced thriller, symbologist Robert Langdon is drawn into a web of secrets and conspiracies surrounding Leonardo da Vinci's works. As he races against time to solve a murder and unravel a historical mystery, themes of faith, morality, and the quest for truth emerge. The novel explores the intersection of religion, art, and the complexities of justice.",
+    "themes": [
+      "mystery",
+      "justice",
+      "faith"
+    ]
+  }
+]

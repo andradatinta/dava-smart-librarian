@@ -1,0 +1,47 @@
+[
+  {
+    "title": "The Hobbit",
+    "summary": "In J.R.R. Tolkien's classic tale, Bilbo Baggins, a hobbit, is unexpectedly swept into an epic adventure when the wizard Gandalf and a group of dwarves enlist his help to reclaim their homeland from the dragon Smaug. Along the way, Bilbo discovers his own bravery and resourcefulness. This journey not only tests his courage but also forges lasting bonds of friendship.",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage"
+    ]
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "summary": "Mark Twain's novel follows young Huck Finn as he escapes his abusive father and embarks on a journey down the Mississippi River with an escaped slave named Jim. Their quest for freedom leads them to encounter various characters and challenges, highlighting the values of friendship and moral growth. The story is a poignant exploration of courage in the face of societal norms.",
+    "themes": [
+      "friendship",
+      "freedom",
+      "courage"
+    ]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "summary": "J.K. Rowling introduces us to Harry Potter, a young boy who discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry. As he navigates this magical world, he forms strong friendships with Ron and Hermione, facing challenges that test their courage. Together, they embark on adventures that reveal the importance of loyalty and bravery.",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage"
+    ]
+  },
+  {
+    "title": "The Little Prince",
+    "summary": "Antoine de Saint-Exupéry's timeless fable tells the story of a young prince who travels from planet to planet, learning about love, loss, and the essence of human connections. Through his encounters, he highlights the importance of friendship and the courage to see the world through the eyes of a child. This whimsical tale invites readers to reflect on what truly matters in life.",
+    "themes": [
+      "friendship",
+      "innocence",
+      "courage"
+    ]
+  },
+  {
+    "title": "The Alchemist",
+    "summary": "Paulo Coelho's philosophical novel follows Santiago, a shepherd boy who dreams of discovering a treasure hidden in Egypt. His journey takes him through various landscapes and encounters, teaching him about the importance of following one's dreams and the friendships that develop along the way. Santiago's quest embodies the courage to pursue one's destiny despite obstacles.",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage"
+    ]
+  }
+]

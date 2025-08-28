@@ -1,0 +1,47 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "summary": "Set in the Deep South during the 1930s, this novel follows young Scout Finch as she navigates her childhood amidst the racial tensions of her town. Her father, Atticus Finch, serves as a lawyer for a black man unjustly accused of raping a white woman. Through Scout's eyes, the story explores themes of morality, justice, and the loss of innocence.",
+    "themes": [
+      "racial injustice",
+      "moral growth",
+      "childhood innocence"
+    ]
+  },
+  {
+    "title": "The Cask of Amontillado",
+    "summary": "In this chilling short story, Montresor seeks revenge against Fortunato during a carnival in Italy. Luring him into the catacombs with the promise of a rare wine, Montresor's true intentions reveal a dark exploration of vengeance and betrayal. The story questions the nature of justice and the extremes to which one might go for personal satisfaction.",
+    "themes": [
+      "revenge",
+      "betrayal",
+      "moral ambiguity"
+    ]
+  },
+  {
+    "title": "The Scarlet Letter",
+    "summary": "Set in Puritan Massachusetts, this novel follows Hester Prynne, who bears the shame of an affair and gives birth to an illegitimate child. Marked by society with a scarlet letter 'A', Hester's journey explores themes of sin, guilt, and redemption. The story intricately examines the complexities of morality and societal judgment.",
+    "themes": [
+      "sin and redemption",
+      "societal judgment",
+      "individual morality"
+    ]
+  },
+  {
+    "title": "The Firm",
+    "summary": "In this legal thriller, young attorney Mitch McDeere is recruited by a prestigious law firm with a hidden agenda. As he uncovers the firm's dark secrets, Mitch is torn between ambition and the ethical dilemmas he faces. The novel delves into the intricacies of justice, corruption, and personal integrity.",
+    "themes": [
+      "corruption",
+      "ethical dilemmas",
+      "personal integrity"
+    ]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "summary": "This fast-paced mystery involves symbologist Robert Langdon as he unravels a conspiracy tied to Leonardo da Vinci's works and the secret of the Holy Grail. As he navigates through clues and ancient secrets, the story challenges established beliefs and explores the tension between faith and reason. It raises questions about truth, morality, and the quest for knowledge.",
+    "themes": [
+      "faith vs. reason",
+      "truth and deception",
+      "moral dilemmas"
+    ]
+  }
+]

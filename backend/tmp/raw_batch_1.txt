@@ -1,0 +1,29 @@
+```json
+[
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "summary": "This classic novel follows the journey of a young boy named Huck Finn as he escapes from his oppressive father and embarks on a river adventure. Along the way, he befriends Jim, a runaway slave, and they navigate the complexities of friendship and morality in a divided society. Their experiences challenge societal norms and highlight the value of loyalty and courage in the face of adversity.",
+        "themes": ["friendship", "adventure", "courage", "morality", "freedom"]
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "summary": "In this epic fantasy, a young hobbit named Frodo Baggins inherits a powerful ring and sets out on a perilous quest to destroy it. Joined by a diverse group of companions, including humans, elves, and dwarves, they face numerous challenges that test their bonds of friendship and bravery. The story explores themes of loyalty, sacrifice, and the struggle between good and evil.",
+        "themes": ["friendship", "adventure", "courage", "sacrifice", "good vs evil"]
+    },
+    {
+        "title": "Charlotte's Web",
+        "summary": "This beloved children's novel tells the story of a pig named Wilbur and his friendship with a wise and kind spider named Charlotte. When Wilbur faces the threat of being slaughtered, Charlotte devises a plan to save him by spinning messages in her web. The book beautifully illustrates the themes of friendship, loyalty, and the courage to stand up for those we care about.",
+        "themes": ["friendship", "courage", "sacrifice", "loyalty", "life and death"]
+    },
+    {
+        "title": "The Alchemist",
+        "summary": "This philosophical novel follows Santiago, a young shepherd who dreams of discovering a hidden treasure in Egypt. His journey is filled with encounters that teach him about love, friendship, and the importance of following one's dreams. Through various adventures and challenges, Santiago learns to trust in the courage of his own heart and the connections he makes along the way.",
+        "themes": ["friendship", "adventure", "courage", "dreams", "self-discovery"]
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "summary": "In this enchanting story, a young boy named Harry discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry. Alongside his new friends Ron and Hermione, he faces magical adventures, battles against dark forces, and uncovers the truth about his past. The book emphasizes the importance of friendship and the courage to confront one's fears.",
+        "themes": ["friendship", "adventure", "courage", "identity", "good vs evil"]
+    }
+]
+```
