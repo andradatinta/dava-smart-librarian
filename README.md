@@ -21,7 +21,7 @@ A tiny Retrieval-Augmented Generation (RAG) app that recommends **one perfect bo
   - If the user asks for a **specific person/title** not in the collection, decline instead of “creative substitutions.”
 
 - **Text-to-Speech (TTS)**: `/tts` endpoint returns an MP3 for the recommendation (front-end adds a **Listen** button).
-  **Inappropriate language filter**: every user query is checked with OpenAI’s `omni-moderation-latest` model; flagged queries are politely declined instead of being sent to the LLM.
+- **Inappropriate language filter**: every user query is checked with OpenAI’s `omni-moderation-latest` model; flagged queries are politely declined instead of being sent to the LLM.
 - **Modern front-end**: compact cards, centered answer panel, smooth animations, markdown rendering for bolding, etc.
 - **No secrets in repo**: OpenAI key is provided via **environment variable** (Compose `.env` or host env).
 
